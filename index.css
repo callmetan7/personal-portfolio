@@ -1,0 +1,10 @@
+.pfpMain{
+    width: 75px;
+    height: 75px;
+    border: solid black;
+    border-radius: 200px;
+}
+.navBarTitle{
+    margin-left: 50px;
+    font-size: xx-large;
+}
