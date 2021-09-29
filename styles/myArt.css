@@ -267,10 +267,20 @@ footer {
 }
 
 .preview {
+  position: relative;
   height: max-content;
 }
 .preview img {
 	border: 4px solid #0C6E2F;
 	padding: 1px;
-	width: 800px;
+	width: 500px;
+}
+
+
+
+@media screen and (max-width: 500px) {
+
+  .preview {
+      width: 70%;
+  }
 }
