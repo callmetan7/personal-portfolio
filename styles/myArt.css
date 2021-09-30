@@ -255,15 +255,15 @@ footer {
 }
 
 .thumbnails img {
-	height: 80px;
-	border: 4px solid #B6F7CC;
-	padding: 1px;
-	margin: 0 10px 10px 0;
+  height: 80px;
+  border: 4px solid #b6f7cc;
+  padding: 1px;
+  margin: 0 10px 10px 0;
 }
 
 .thumbnails img:hover {
-	border: 4px solid #47EB81;
-	cursor:pointer;
+  border: 4px solid #47eb81;
+  cursor: pointer;
 }
 
 .preview {
@@ -271,17 +271,14 @@ footer {
   height: max-content;
 }
 .preview img {
-	border: 4px solid #0C6E2F;
-	padding: 0.1px;
-	width: 400px;
+  border: 4px solid #0c6e2f;
+  padding: 0.1px;
+  width: 400px;
   height: 400px;
 }
 
-
-
 @media screen and (max-width: 500px) {
-
   .preview {
-      width: 70%;
+    width: 70%;
   }
 }
