@@ -207,6 +207,10 @@ footer {
   width: 150px;
   height: 100px;
 }
+#java {
+  width: 150px;
+  height: 100px;
+}
 @media screen and (max-width: 760px) {
   .features {
     display: block;
